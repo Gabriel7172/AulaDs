@@ -8,6 +8,7 @@ package com.mycompany.exc.avaliativo;
  *
  * @author Aluno CA
  */
+//TABUADA COM FOR
 public class ExcAvaliativo {
 
     public static void main(String[] args) {
